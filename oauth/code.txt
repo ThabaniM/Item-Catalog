@@ -1,0 +1,3 @@
+49015371749-cp18i68iptf3gr5j8278irdf11ig35ts.apps.googleusercontent.com = client id
+
+8hJJ237mPHXcSH2-n61roAAf = secret
